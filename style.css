@@ -1,0 +1,15 @@
+body {
+    font-family: 'Cherry Swash', cursive;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.header-section {
+    background-image: url(jakarta-flood-people-motorcycles-cars-crossing-30596559.jpg);
+    text-align: center;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: white;
+}
+h1{
+    font-size: 50px;
+}
