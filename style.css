@@ -4,12 +4,20 @@ body {
 }
 
 .header-section {
-    background-image: url(jakarta-flood-people-motorcycles-cars-crossing-30596559.jpg);
+    background-image: url(donation13.jpg);
     text-align: center;
     background-repeat: no-repeat;
     background-position: center;
-    color: white;
+    color:white;
+    background-size: 100% 100%;
+    padding: 200px;
 }
 h1{
-    font-size: 50px;
+    font-size: 40px;
+    border: 0px;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(tomato, red);
+    padding: 10px 15px;
 }
