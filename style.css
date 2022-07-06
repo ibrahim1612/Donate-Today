@@ -25,14 +25,16 @@ body {
 }
 #footer{
     text-align: center;
-    color: rgba(94, 6, 6, 0.851);
+    color: rgba(199, 25, 25, 0.754);
+    background-color: black;
+    padding: 20px;
 }
-.pricing{
+.donate{
     text-align: center;
     color: black;
     padding: 10px;
 }
-.pricing h1{
+.donate h1{
     font-size: 40px;
 }
 .tk-box{
@@ -43,4 +45,12 @@ body {
     background-color:rgba(228, 25, 25, 0.194);
     font-weight: 800;
     margin: 10px;
+}
+.email{
+    text-align: center;
+    margin-left: 15%;
+    padding: 30px 60px;
+    height: 150px;
+    width: 60%;
+    background-color:antiquewhite ;
 }
